@@ -1,6 +1,8 @@
 # Heer Mehta — Portfolio
 
-A responsive, static portfolio site for Heer Mehta. The site links to public GitHub projects and includes a downloadable PDF resume. Its palette uses Plum (`#4D1022`), Aubergine (`#200611`), Olive (`#5C5D16`), and Citron (`#EFEDD2`).
+Showcasing my skills through software development projects and applied AI work.
+
+A responsive, static portfolio site for Heer Mehta. It links to public GitHub projects and includes a downloadable PDF resume. Its palette uses Plum (`#4D1022`), Aubergine (`#200611`), Olive (`#5C5D16`), and Citron (`#EFEDD2`).
 
 Live site: https://heer-mehta-portfolio.vercel.app
 
