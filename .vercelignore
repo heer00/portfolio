@@ -1,0 +1,5 @@
+# Keep only the public portfolio and its downloadable PDF in the deployment.
+README.md
+build_resume.py
+tmp
+assets/*.docx
